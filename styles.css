@@ -43,7 +43,6 @@ p {
     text-align: center;
     color: #8a8989;
 }
-
 /* Media Queries for Responsive Design */
 @media (max-width: 768px) {
     .container {
